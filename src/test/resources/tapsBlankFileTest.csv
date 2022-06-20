@@ -1,0 +1,2 @@
+ID, DateTimeUTC, TapType, StopId, CompanyId, BusID, PAN
+1, 22-01-2018 15:05:00, OFF, Stop3, Company9, Bus37, 5500005555555552
